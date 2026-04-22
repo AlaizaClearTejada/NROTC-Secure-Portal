@@ -2,9 +2,9 @@
 
 TITLE: Design and Implementation of a secure login and role-based access System for CSU-Aparri NROTC
 
-MEMEBERS:
-Beltran Juvylyn
-Calpito Angelyn
+MEMBERS:
+Beltran Juvylyn,
+Calpito Angelyn,
 Yabes Larry
 
 A Laravel-based web application providing hardened record-keeping and access control for the **Cagayan State University Aparri Naval Reserve Officers Training Corps (NROTC)** unit.
